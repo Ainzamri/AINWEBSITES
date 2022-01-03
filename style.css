@@ -5,7 +5,7 @@
 
 body
 {
-        background-image: url('wallpaper.png');
+        background-image: url(wallpaper.png);
 }
  
 nav {
