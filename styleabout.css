@@ -8,7 +8,7 @@
 }
 body{
     font-family: 'Poppins', sans-serif;
-    background: url(./image/wallpaper.png) no-repeat center fixed;
+    background: url(wallpaper.png) no-repeat center fixed;
   background-size: cover;
 }
 nav {
